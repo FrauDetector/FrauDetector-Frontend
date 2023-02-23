@@ -9,10 +9,11 @@ const Navbar = () => {
           <navbar className={styles.navbar}>
             <a href="/">Home</a>
             <a href="/report">Report</a>
-            <a href="/removal">Database Removal</a>
+            <a href="/removal">Removal</a>
             <a href="/api">Documentation</a>
             <a href="/about">About</a>
             <a href="/contact">Contact</a>
+            <a href="/legal">Legal</a>
             <a href="https://github.com/FrauDetector" target="_blank">Github</a>
           </navbar>
         </div>
