@@ -15,17 +15,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div className={styles.navbarContainer}>
-          <navbar className={styles.navbar}>
-            <a href="/">Home</a>
-            <a href="/about">About</a>
-            <a href="/contact">Contact</a>
-            <a href="/removal">Report</a>
-            <a href="/removal">Removal</a>
-            <a href="/api">Documentation</a>
-            <a href="https://github.com/FrauDetector" target="_blank">Github</a>
-          </navbar>
-        </div>
         <div>
           <div className={styles.main}>
             <h1>FrauDetector</h1>
